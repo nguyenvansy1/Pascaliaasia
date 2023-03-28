@@ -1,0 +1,26 @@
+
+Y
+java:S1854"7Remove this useless assignment to local variable "min".(İê¯Ùûÿÿÿÿ8ØœÖò0
+J
+java:S1481"(Remove this unused "min" local variable.(İê¯Ùûÿÿÿÿ8÷œÖò0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÇçˆÿÿÿÿÿ8‡Öò0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(½¥×8‡Öò0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒöØóıÿÿÿÿ8‡Öò0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ì™¶şøÿÿÿÿ8‡Öò0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Ú÷…®ûÿÿÿÿ8–Öò0
+T
+java:S18548"7Remove this useless assignment to local variable "max".(ßàÒü8–Öò0
+Y
+java:S18547"7Remove this useless assignment to local variable "min".(Ğ›ÛÔùÿÿÿÿ8–Öò0
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(½ò”Å8¦Öò0
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ì¹çğüÿÿÿÿ8¶Öò0
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(°áãÿıÿÿÿÿ8¶Öò0
+J
+java:S14817"(Remove this unused "min" local variable.(Ğ›ÛÔùÿÿÿÿ8¶Öò0
+E
+java:S14818"(Remove this unused "max" local variable.(ßàÒü8¶Öò0
+X	java:S125;"<This block of commented-out lines of code should be removed.(µİŸë8¶Öò0
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(ÜÇçˆÿÿÿÿÿ8ÅÖò0
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(¼ìØ€úÿÿÿÿ8ÅÖò0
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8ÕÖò0

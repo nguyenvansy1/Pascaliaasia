@@ -1,0 +1,10 @@
+
+v
+java:S1210#"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Ê¢¹á8”Ëç ò0
+]	java:S1253"<This block of commented-out lines of code should be removed.(Ë¢çÓüÿÿÿÿ8Ž¥å ò0
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(ÇøèËýÿÿÿÿ8òâ ò0
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(Â¥Ó øÿÿÿÿ8¥å ò0
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8©éç ò0
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8©éç ò0

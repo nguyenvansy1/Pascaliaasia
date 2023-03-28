@@ -1,0 +1,11 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù´¨‚ÿÿÿÿÿ8 ¡ÖŽò0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ºõÂû8¯¡ÖŽò0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‰ˆ¢¨8¯¡ÖŽò0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(‡©€8¯¡ÖŽò0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ú²½²ùÿÿÿÿ8¯¡ÖŽò0
+X	java:S125&"<This block of commented-out lines of code should be removed.(¯åôÏ8¯¡ÖŽò0
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8¯¡ÖŽò0
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8¯¡ÖŽò0

@@ -1,0 +1,16 @@
+
+‡
+java:S1319"eThe type of "link" should be an interface such as "List" rather than the implementation "LinkedList".(®×³¹ÿÿÿÿÿ8„ Öò0
+‚
+java:S1319"eThe type of "link" should be an interface such as "List" rather than the implementation "LinkedList".(éÏ´¯8„ Öò0
+ƒ
+java:S1319"fThe type of "link1" should be an interface such as "List" rather than the implementation "LinkedList".(ƒ¢ã8„ Öò0
+ƒ
+java:S1319"fThe type of "link2" should be an interface such as "List" rather than the implementation "LinkedList".(ƒ¢ã8„ Öò0
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(Æ¨Òò8„ Öò0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„°Ë8³ Öò0
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(·’ÿàşÿÿÿÿ8Â Öò0
+]	java:S1250"<This block of commented-out lines of code should be removed.(Ûêëùùÿÿÿÿ8Â Öò0
+T
+java:S1128"7Remove this unused import 'sun.awt.image.ImageWatched'.(Æ¨Òò8Â Öò0
